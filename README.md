@@ -42,6 +42,7 @@ The data pipeline follows the **Medallion Architecture** for modular data manage
 
 A robust data-warehouse architecture was designed to support scalable ETL operations and organized data flow.
 It defines how data travels through ingestion, transformation, and reporting layers, ensuring reliability and modularity.
+
 ![Data Architecture](https://github.com/alpesh502/Modern-Sales-DataWarehouse/blob/main/docs/data_architecture.png)
 
 ---
@@ -49,6 +50,7 @@ It defines how data travels through ingestion, transformation, and reporting lay
 
 The data-flow diagram explains the movement of data across systems — from source files (CSV) to data warehouse tables and finally to BI dashboards.
 It helps visualize dependencies, data refresh frequency, and transformation logic.
+
 ![Data Flow](https://github.com/alpesh502/Modern-Sales-DataWarehouse/blob/main/docs/data_flow.png)
 
 ---
@@ -56,6 +58,7 @@ It helps visualize dependencies, data refresh frequency, and transformation logi
 
 Data from CRM and ERP systems is integrated using SQL Server stored procedures and BULK INSERT for batch ingestion.
 This step ensures data consistency, proper mapping, and incremental loading for updates.
+
 ![Data Integration](https://github.com/alpesh502/Modern-Sales-DataWarehouse/blob/main/docs/data_integration.png)
 
 ---
@@ -63,6 +66,7 @@ This step ensures data consistency, proper mapping, and incremental loading for 
 
 Data Modeling is performed using Fact and Dimension tables for better analytics and reporting.
 This model supports star schema design, enabling faster queries and simplified dashboard development.
+
 ![Data Model](https://github.com/alpesh502/Modern-Sales-DataWarehouse/blob/main/docs/data_model.png)
 
 --- 
