@@ -20,10 +20,10 @@ Build a structured **Data Warehouse** that ingests raw data from multiple source
 ##  Step 2: Skills Demonstrated  
 
  - SQL Development (DDL, DML, Joins, Subqueries)  
- - ETL Pipeline Development (Extraction, Transformation, Loading)  
- - Data Architecture (Bronze, Silver, Gold layers)  
- - Data Modeling (Fact & Dimension Tables)  
- - Database Design using **Microsoft SQL Server**  
+ - ETL Pipeline Development (Extraction, Transformation, Loading)
+ - Data Architecture (Bronze, Silver, Gold layers)
+ - Data Modeling (Fact & Dimension Tables)
+ - Database Design using **Microsoft SQL Server**
 
 ---
 
