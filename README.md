@@ -11,9 +11,9 @@ This project demonstrates how to design and implement a **complete ETL workflow*
 Build a structured **Data Warehouse** that ingests raw data from multiple sources (CRM & ERP systems), cleanses and standardizes it, and produces business-ready analytical data for reporting and insights.
 
 **Key Outcomes:**  
-- Automate data ingestion using SQL stored procedures.  
-- Implement Medallion Architecture layers for scalability and clarity.  
-- Generate analytical insights on customer behavior, product performance, and sales trends.  
+- Automate data ingestion using SQL stored procedures.
+- Implement Medallion Architecture layers for scalability and clarity.
+- Generate analytical insights on customer behavior, product performance, and sales trends.
 
 ---
 
