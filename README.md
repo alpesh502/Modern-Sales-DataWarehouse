@@ -1,11 +1,11 @@
 # Modern Data Warehouse using SQL Server  
 
 Transform raw sales data into **actionable business insights** using a **modern Data Warehouse architecture**! 
-This project demonstrates how to design and implement a **complete ETL workflow** with **SQL Server**, applying the **Medallion Architecture (Bronze → Silver → Gold)** framework.  
+This project demonstrates how to design and implement a **complete ETL workflow** with **SQL Server**, applying the **Medallion Architecture (Bronze → Silver → Gold)** framework.
 
 ---
 
-##  Step 1: Objective  
+##  Step 1: Objective 
 
 **Goal:**  
 Build a structured **Data Warehouse** that ingests raw data from multiple sources (CRM & ERP systems), cleanses and standardizes it, and produces business-ready analytical data for reporting and insights.
