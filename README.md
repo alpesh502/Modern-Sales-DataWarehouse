@@ -5,7 +5,7 @@ This project demonstrates how to design and implement a **complete ETL workflow*
 
 ---
 
-##  Step 1: Objective 
+##  Step 1: Objective
 
 **Goal:**
 Build a structured **Data Warehouse** that ingests raw data from multiple sources (CRM & ERP systems), cleanses and standardizes it, and produces business-ready analytical data for reporting and insights.
